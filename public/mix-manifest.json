@@ -1,0 +1,21 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/Home.js": "/js/Home.js",
+    "/js/Login.js": "/js/Login.js",
+    "/js/Error404.js": "/js/Error404.js",
+    "/js/IndexOutlet.js": "/js/IndexOutlet.js",
+    "/js/DataOutlet.js": "/js/DataOutlet.js",
+    "/js/AddOutlet.js": "/js/AddOutlet.js",
+    "/js/EditOutlet.js": "/js/EditOutlet.js",
+    "/js/IndexCourier.js": "/js/IndexCourier.js",
+    "/js/DataCourier.js": "/js/DataCourier.js",
+    "/js/AddCourier.js": "/js/AddCourier.js",
+    "/js/EditCourier.js": "/js/EditCourier.js",
+    "/js/IndexProduct.js": "/js/IndexProduct.js",
+    "/js/DataProduct.js": "/js/DataProduct.js",
+    "/js/AddProduct.js": "/js/AddProduct.js",
+    "/js/EditProduct.js": "/js/EditProduct.js",
+    "/js/Setting.js": "/js/Setting.js",
+    "/js/SetPermission.js": "/js/SetPermission.js",
+    "/css/app.css": "/css/app.css"
+}
